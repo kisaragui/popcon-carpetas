@@ -1,0 +1,25 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     fontconfig                         1     1     0     0     0 (Keith Packard)                 
+2     fontconfig-config                  1     1     0     0     0 (Keith Packard)                 
+3     fonts-opensymbol                   1     1     0     0     0 (Debian Libreoffice Maintainers)
+4     gsfonts                            1     1     0     0     0 (Masayuki Hatta)                
+5     fonts-freefont-ttf                 1     0     0     0     1 (Debian Fonts Task Force)       
+6     fonts-liberation                   1     0     0     0     1 (Debian Fonts Task Force)       
+7     ttf-dejavu-core                    1     0     0     0     1 (Debian Fonts Task Force)       
+8     xfonts-100dpi                      1     0     0     0     1 (Debian X Strike Force)         
+9     xfonts-75dpi                       1     0     0     0     1 (Debian X Strike Force)         
+10    xfonts-base                        1     0     0     0     1 (Debian X Strike Force)         
+11    xfonts-encodings                   1     0     0     0     1 (Debian X Strike Force)         
+12    xfonts-scalable                    1     0     0     0     1 (Debian X Strike Force)         
+------------------------------------------------------------------
+12    Total                             12     4     0     0     8 0                               

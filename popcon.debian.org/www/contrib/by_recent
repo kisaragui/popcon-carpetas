@@ -1,0 +1,23 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     flashplugin-nonfree                1     0     0     1     0 (Bart Martens)                  
+2     virtualbox-dbg                     1     0     0     1     0 (Debian Virtualbox Team)        
+3     virtualbox                         1     1     0     0     0 (Debian Virtualbox Team)        
+4     virtualbox-dkms                    1     1     0     0     0 (Debian Virtualbox Team)        
+5     virtualbox-guest-dkms              1     1     0     0     0 (Debian Virtualbox Team)        
+6     virtualbox-guest-source            1     0     0     0     1 (Debian Virtualbox Team)        
+7     virtualbox-guest-utils             1     1     0     0     0 (Debian Virtualbox Team)        
+8     virtualbox-guest-x11               1     1     0     0     0 (Debian Virtualbox Team)        
+9     virtualbox-qt                      1     1     0     0     0 (Debian Virtualbox Team)        
+10    virtualbox-source                  1     0     0     0     1 (Debian Virtualbox Team)        
+------------------------------------------------------------------
+10    Total                             10     6     0     2     2 0                               

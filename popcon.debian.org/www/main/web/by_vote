@@ -1,0 +1,19 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     bluefish                           1     1     0     0     0 (Daniel Leidert)                
+2     bluefish-data                      1     1     0     0     0 (Daniel Leidert)                
+3     bluefish-plugins                   1     1     0     0     0 (Daniel Leidert)                
+4     html2text                          1     1     0     0     0 (Debian Qa Group)               
+5     libjs-jquery                       1     0     0     0     1 (Debian Javascript Maintainers) 
+6     wget                               1     0     0     1     0 (Noël Köthe)                    
+------------------------------------------------------------------
+6     Total                              6     4     0     1     1 0                               

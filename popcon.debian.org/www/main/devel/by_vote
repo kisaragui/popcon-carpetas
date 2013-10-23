@@ -1,0 +1,42 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     autoconf                           1     1     0     0     0 (Ben Pfaff)                     
+2     automake                           1     1     0     0     0 (Eric Dorland)                  
+3     autotools-dev                      1     1     0     0     0 (Henrique De Moraes Holschuh)   
+4     binutils                           1     1     0     0     0 (Matthias Klose)                
+5     cdbs                               1     1     0     0     0 (Cdbs Hackers)                  
+6     debhelper                          1     1     0     0     0 (Joey Hess)                     
+7     desktop-file-utils                 1     1     0     0     0 (Ross Burton)                   
+8     devscripts                         1     1     0     0     0 (Devscripts Devel Team)         
+9     dh-make                            1     1     0     0     0 (Craig Small)                   
+10    diffstat                           1     1     0     0     0 (Sandro Tosi)                   
+11    g++                                1     1     0     0     0 (Debian Gcc Maintainers)        
+12    g++-4.7                            1     1     0     0     0 (Debian Gcc Maintainers)        
+13    gcc                                1     1     0     0     0 (Debian Gcc Maintainers)        
+14    gcc-4.6                            1     1     0     0     0 (Debian Gcc Maintainers)        
+15    gcc-4.7                            1     1     0     0     0 (Debian Gcc Maintainers)        
+16    gettext                            1     1     0     0     0 (Santiago Vila)                 
+17    hardening-includes                 1     1     0     0     0 (Package Hardening)             
+18    intltool-debian                    1     1     0     0     0 (Nicolas Francois)              
+19    kbuild                             1     1     0     0     0 (Debian Virtualbox Team)        
+20    lintian                            1     1     0     0     0 (Debian Lintian Maintainers)    
+21    linux-kbuild-3.2                   1     1     0     0     0 (Debian Kernel Team)            
+22    linux-libc-dev                     1     1     0     0     0 (Debian Kernel Team)            
+23    make                               1     1     0     0     0 (Manoj Srivastava)              
+24    pbuilder                           1     1     0     0     0 (Debian Pbuilder Maintenance Team)
+25    pkg-config                         1     1     0     0     0 (Tollef Fog Heen)               
+26    po-debconf                         1     1     0     0     0 (Nicolas Francois)              
+27    python-debian                      1     1     0     0     0 (Debian Python-debian Maintainers)
+28    build-essential                    1     0     0     0     1 (Matthias Klose)                
+29    libzvbi-common                     1     0     0     0     1 (Debian Qa Group)               
+------------------------------------------------------------------
+29    Total                             29    27     0     0     2 0                               

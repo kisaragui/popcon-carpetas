@@ -1,0 +1,14 @@
+#<name> is the developer name;
+#
+#The fields below are the sum for all the packages maintained by that
+#developer:
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files 
+------------------------------------------------------------------
+0     Total                              0     0     0     0     0 0                               

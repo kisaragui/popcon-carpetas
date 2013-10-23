@@ -1,0 +1,17 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     libfaac0                           1     0     0     0     1 (Debian Multimedia Maintainers) 
+2     virtualbox-guest-additions-iso     1     0     0     0     1 (Debian Virtualbox Team)        
+3     rar                                1     1     0     0     0 (Martin Meredith)               
+4     unrar                              1     1     0     0     0 (Martin Meredith)               
+------------------------------------------------------------------
+4     Total                              4     2     0     0     2 0                               

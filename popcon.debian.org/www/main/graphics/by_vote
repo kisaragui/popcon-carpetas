@@ -1,0 +1,16 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     inkscape                           1     1     0     0     0 (Wolfram Quester)               
+2     gtk2-engines-pixbuf                1     0     0     0     1 (Debian Gnome Maintainers)      
+3     imagemagick-common                 1     0     0     0     1 (Imagemagick Packaging Team)    
+------------------------------------------------------------------
+3     Total                              3     1     0     0     2 0                               

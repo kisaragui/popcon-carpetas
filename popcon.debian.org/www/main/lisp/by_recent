@@ -1,0 +1,17 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     guile-1.8-libs                     1     0     0     1     0 (Rob Browning)                  
+2     debian-el                          1     0     1     0     0 (Peter S Galbraith)             
+3     devscripts-el                      1     0     1     0     0 (Peter S Galbraith)             
+4     dpkg-dev-el                        1     0     1     0     0 (Peter S Galbraith)             
+------------------------------------------------------------------
+4     Total                              4     0     3     1     0 0                               

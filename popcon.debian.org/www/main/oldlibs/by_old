@@ -1,0 +1,25 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     apache2-mpm-worker                 1     1     0     0     0 (Debian Apache Maintainers)     
+2     apache2.2-bin                      1     1     0     0     0 (Debian Apache Maintainers)     
+3     iproute                            1     1     0     0     0 (Debian Iproute2 Maintainers)   
+4     libgconf2-4                        1     1     0     0     0 (Josselin Mouette)              
+5     libgcr-3-1                         1     1     0     0     0 (Josselin Mouette)              
+6     libgnomevfs2-0                     1     0     0     0     1 (Josselin Mouette)              
+7     libgnomevfs2-common                1     0     0     0     1 (Josselin Mouette)              
+8     libpango1.0-0                      1     1     0     0     0 (Debian Gnome Maintainers)      
+9     libtiff4                           1     1     0     0     0 (Jay Berkenbilt)                
+10    python-gobject-2                   1     1     0     0     0 (Josselin Mouette)              
+11    python-uno                         1     1     0     0     0 (Debian Libreoffice Maintainers)
+12    ttf-freefont                       1     0     0     0     1 (Debian Fonts Task Force)       
+------------------------------------------------------------------
+12    Total                             12     9     0     0     3 0                               

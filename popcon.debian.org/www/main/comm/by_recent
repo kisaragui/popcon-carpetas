@@ -1,0 +1,16 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     modemmanager                       1     1     0     0     0 (Alexander Sack)                
+2     usb-modeswitch                     1     1     0     0     0 (Didier Raboud)                 
+3     usb-modeswitch-data                1     1     0     0     0 (Didier Raboud)                 
+------------------------------------------------------------------
+3     Total                              3     3     0     0     0 0                               

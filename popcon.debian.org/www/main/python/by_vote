@@ -1,0 +1,60 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     python                             1     1     0     0     0 (Matthias Klose)                
+2     python-apt                         1     1     0     0     0 (Apt Development Team)          
+3     python-aptdaemon                   1     1     0     0     0 (Julian Andres Klode)           
+4     python-aptdaemon.gtk3widgets       1     1     0     0     0 (Julian Andres Klode)           
+5     python-brlapi                      1     1     0     0     0 (Debian Accessibility Team)     
+6     python-cairo                       1     1     0     0     0 (Debian Python Modules Team)    
+7     python-chardet                     1     1     0     0     0 (Piotr Ożarowski)               
+8     python-dbus                        1     1     0     0     0 (Utopia Maintenance Team)       
+9     python-dbus-dev                    1     1     0     0     0 (Utopia Maintenance Team)       
+10    python-defer                       1     1     0     0     0 (Sebastian Heinlein)            
+11    python-gconf                       1     1     0     0     0 (Sebastien Bacher)              
+12    python-gi                          1     1     0     0     0 (Josselin Mouette)              
+13    python-gi-cairo                    1     1     0     0     0 (Josselin Mouette)              
+14    python-gobject                     1     1     0     0     0 (Josselin Mouette)              
+15    python-gst0.10                     1     1     0     0     0 (Maintainers Of Gstreamer Packages)
+16    python-gtk2                        1     1     0     0     0 (Sebastien Bacher)              
+17    python-httplib2                    1     1     0     0     0 (Luca Falavigna)                
+18    python-imaging                     1     1     0     0     0 (Matthias Klose)                
+19    python-lazr.restfulclient          1     1     0     0     0 (Stefano Rivera)                
+20    python-lazr.uri                    1     1     0     0     0 (Stefano Rivera)                
+21    python-libxml2                     1     1     0     0     0 (Debian Xml/sgml Group)         
+22    python-louis                       1     1     0     0     0 (Debian Accessibility Team)     
+23    python-minimal                     1     1     0     0     0 (Matthias Klose)                
+24    python-notify                      1     1     0     0     0 (Gustavo Franco)                
+25    python-numpy                       1     1     0     0     0 (Debian Python Modules Team)    
+26    python-oauth                       1     1     0     0     0 (Debian Python Modules Team)    
+27    python-pkg-resources               1     1     0     0     0 (Matthias Klose)                
+28    python-pyatspi                     1     1     0     0     0 (Debian Accessibility Team)     
+29    python-pyatspi2                    1     1     0     0     0 (Debian Accessibility Team)     
+30    python-pycurl                      1     1     0     0     0 (Debian Python Modules Team)    
+31    python-reportbug                   1     1     0     0     0 (Reportbug Maintainers)         
+32    python-simplejson                  1     1     0     0     0 (Debian Python Modules Team)    
+33    python-speechd                     1     1     0     0     0 (Boris Dušek)                   
+34    python-support                     1     1     0     0     0 (Josselin Mouette)              
+35    python-vte                         1     1     0     0     0 (Debian Gnome Maintainers)      
+36    python-wadllib                     1     1     0     0     0 (Stefano Rivera)                
+37    python-webkit                      1     1     0     0     0 (Christophe Sauthier)           
+38    python-xapian                      1     1     0     0     0 (Olly Betts)                    
+39    python-xdg                         1     1     0     0     0 (Debian Python Modules Team)    
+40    python2.7                          1     1     0     0     0 (Matthias Klose)                
+41    python2.7-minimal                  1     1     0     0     0 (Matthias Klose)                
+42    python-apt-common                  1     0     0     0     1 (Apt Development Team)          
+43    python-dateutil                    1     0     1     0     0 (Guido Günther)                 
+44    python-debianbts                   1     0     0     0     1 (Bastian Venthur)               
+45    python-fpconst                     1     0     0     0     1 (Debian Python Modules Team)    
+46    python-gnupginterface              1     0     0     0     1 (Guilherme De S. Pastore)       
+47    python-soappy                      1     0     0     0     1 (Debian Python Modules Team)    
+------------------------------------------------------------------
+47    Total                             47    41     1     0     5 0                               

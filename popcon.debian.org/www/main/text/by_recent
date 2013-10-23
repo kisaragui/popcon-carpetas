@@ -1,0 +1,27 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     unoconv                            1     0     0     1     0 (Vincent Bernat)                
+2     aspell                             1     1     0     0     0 (Brian Nelson)                  
+3     aspell-en                          1     1     0     0     0 (Brian Nelson)                  
+4     aspell-es                          1     0     1     0     0 (Agustin Martin Domingo)        
+5     dictionaries-common                1     1     0     0     0 (Agustin Martin Domingo)        
+6     ghostscript                        1     1     0     0     0 (Debian Printing Team)          
+7     groff-base                         1     1     0     0     0 (Colin Watson)                  
+8     less                               1     1     0     0     0 (Anibal Monsalve Salazar)       
+9     libexttextcat-data                 1     0     0     0     1 (Rene Engelhard)                
+10    liblouis-data                      1     0     0     0     1 (Debian Accessibility Team)     
+11    myspell-es                         1     0     1     0     0 (Agustin Martin Domingo)        
+12    patchutils                         1     1     0     0     0 (Christoph Berg)                
+13    poedit                             1     1     0     0     0 (Pedro Ribeiro)                 
+14    sgml-base                          1     1     0     0     0 (Debian Xml/sgml Group)         
+------------------------------------------------------------------
+14    Total                             14     9     2     1     2 0                               

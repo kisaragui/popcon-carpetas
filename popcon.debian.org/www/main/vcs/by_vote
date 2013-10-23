@@ -1,0 +1,18 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     git                                1     1     0     0     0 (Gerrit Pape)                   
+2     git-buildpackage                   1     1     0     0     0 (Guido Günther)                 
+3     patch                              1     1     0     0     0 (Christoph Berg)                
+4     quilt                              1     1     0     0     0 (Martin Quinson)                
+5     git-core                           1     0     0     0     1 (Gerrit Pape)                   
+------------------------------------------------------------------
+5     Total                              5     4     0     0     1 0                               

@@ -1,0 +1,32 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     apel                               1     0     1     0     0 (Tatsuya Kinoshita)             
+2     emacs23                            1     1     0     0     0 (Rob Browning)                  
+3     emacs23-bin-common                 1     1     0     0     0 (Rob Browning)                  
+4     emacs23-common                     1     1     0     0     0 (Rob Browning)                  
+5     emacsen-common                     1     1     0     0     0 (Rob Browning)                  
+6     libreoffice-base-core              1     1     0     0     0 (Debian Libreoffice Maintainers)
+7     libreoffice-calc                   1     1     0     0     0 (Debian Libreoffice Maintainers)
+8     libreoffice-common                 1     1     0     0     0 (Debian Libreoffice Maintainers)
+9     libreoffice-core                   1     1     0     0     0 (Debian Libreoffice Maintainers)
+10    libreoffice-draw                   1     1     0     0     0 (Debian Libreoffice Maintainers)
+11    libreoffice-impress                1     1     0     0     0 (Debian Libreoffice Maintainers)
+12    libreoffice-math                   1     1     0     0     0 (Debian Libreoffice Maintainers)
+13    libreoffice-style-galaxy           1     1     0     0     0 (Debian Libreoffice Maintainers)
+14    libreoffice-writer                 1     1     0     0     0 (Debian Libreoffice Maintainers)
+15    nano                               1     1     0     0     0 (Jordi Mallach)                 
+16    vim                                1     1     0     0     0 (Debian Vim Maintainers)        
+17    vim-common                         1     1     0     0     0 (Debian Vim Maintainers)        
+18    vim-runtime                        1     1     0     0     0 (Debian Vim Maintainers)        
+19    vim-tiny                           1     1     0     0     0 (Debian Vim Maintainers)        
+------------------------------------------------------------------
+19    Total                             19    18     1     0     0 0                               

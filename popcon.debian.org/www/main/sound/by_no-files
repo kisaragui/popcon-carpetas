@@ -1,0 +1,20 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     esound-common                      1     0     0     0     1 (Josselin Mouette)              
+2     espeak-data                        1     0     0     0     1 (Debian Accessibility Team)     
+3     sound-theme-freedesktop            1     0     0     0     1 (Debian Gnome Maintainers)      
+4     alsa-utils                         1     1     0     0     0 (Debian Alsa Maintainers)       
+5     gstreamer0.10-gconf                1     1     0     0     0 (Maintainers Of Gstreamer Packages)
+6     pulseaudio                         1     1     0     0     0 (Pulseaudio Maintenance Team)   
+7     speech-dispatcher                  1     1     0     0     0 (Boris Dušek)                   
+------------------------------------------------------------------
+7     Total                              7     4     0     0     3 0                               

@@ -1,0 +1,41 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     avahi-daemon                       1     1     0     0     0 (Utopia Maintenance Team)       
+2     bind9-host                         1     1     0     0     0 (Lamont Jones)                  
+3     cups                               1     1     0     0     0 (Debian Printing Team)          
+4     cups-client                        1     1     0     0     0 (Debian Printing Team)          
+5     cups-common                        1     1     0     0     0 (Debian Printing Team)          
+6     cups-filters                       1     0     1     0     0 (Debian Printing Team)          
+7     gstreamer0.10-nice                 1     0     0     0     1 (Debian Telepathy Maintainers)  
+8     iptables                           1     1     0     0     0 (Laurence J. Lane)              
+9     iptraf                             1     1     0     0     0 (Frederic Peters)               
+10    iputils-ping                       1     1     0     0     0 (Noah Meyerhans)                
+11    isc-dhcp-client                    1     1     0     0     0 (Debian Isc Dhcp Maintainers)   
+12    isc-dhcp-common                    1     1     0     0     0 (Debian Isc Dhcp Maintainers)   
+13    mime-support                       1     1     0     0     0 (Mime-support Maintainers)      
+14    net-tools                          1     1     0     0     0 (Net-tools Team)                
+15    netcat-traditional                 1     1     0     0     0 (Ruben Molina)                  
+16    network-manager                    1     1     0     0     0 (Utopia Maintenance Team)       
+17    nmap                               1     0     0     1     0 (Lamont Jones)                  
+18    openssh-client                     1     1     0     0     0 (Debian Openssh Maintainers)    
+19    openssh-server                     1     1     0     0     0 (Debian Openssh Maintainers)    
+20    ssh                                1     0     0     0     1 (Debian Openssh Maintainers)    
+21    tcpdump                            1     1     0     0     0 (Romain Francoise)              
+22    telepathy-gabble                   1     0     1     0     0 (Debian Telepathy Maintainers)  
+23    telepathy-idle                     1     0     1     0     0 (Debian Telepathy Maintainers)  
+24    telepathy-mission-control-5        1     1     0     0     0 (Debian Telepathy Maintainers)  
+25    telepathy-rakia                    1     1     0     0     0 (Debian Telepathy Maintainers)  
+26    telepathy-salut                    1     0     1     0     0 (Debian Telepathy Maintainers)  
+27    traceroute                         1     1     0     0     0 (Luk Claes)                     
+28    wpasupplicant                      1     1     0     0     0 (Debian/ubuntu Wpasupplicant Maintainers)
+------------------------------------------------------------------
+28    Total                             28    21     4     1     2 0                               

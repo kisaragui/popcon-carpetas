@@ -1,0 +1,25 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     info                               1     1     0     0     0 (Debian Tex Maintainers)        
+2     install-info                       1     1     0     0     0 (Debian Tex Maintainers)        
+3     man-db                             1     1     0     0     0 (Colin Watson)                  
+4     perl-doc                           1     1     0     0     0 (Niko Tyni)                     
+5     debian-policy                      1     0     0     0     1 (Debian Policy List)            
+6     developers-reference               1     0     0     0     1 (Developers Reference Maintainers)
+7     git-man                            1     0     0     0     1 (Gerrit Pape)                   
+8     libreoffice-help-es                1     0     0     0     1 (Debian Libreoffice Maintainers)
+9     manpages                           1     0     0     0     1 (Martin Schulze)                
+10    manpages-es                        1     0     0     0     1 (Javier Fernández-sanguino Peña)
+11    manpages-es-extra                  1     0     0     0     1 (Javier Fernandez-sanguino Pen~a)
+12    xorg-docs-core                     1     0     0     0     1 (Debian X Strike Force)         
+------------------------------------------------------------------
+12    Total                             12     4     0     0     8 0                               

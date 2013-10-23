@@ -1,0 +1,21 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     linux-headers-686-pae              1     0     0     0     1 (Debian Kernel Team)            
+2     linux-image-686-pae                1     0     0     0     1 (Debian Kernel Team)            
+3     dkms                               1     1     0     0     0 (Dynamic Kernel Modules Support Team)
+4     linux-base                         1     1     0     0     0 (Debian Kernel Team)            
+5     linux-headers-3.2.0-4-686-pae      1     1     0     0     0 (Debian Kernel Team)            
+6     linux-headers-3.2.0-4-common       1     1     0     0     0 (Debian Kernel Team)            
+7     linux-image-3.2.0-4-686-pae        1     1     0     0     0 (Debian Kernel Team)            
+8     module-assistant                   1     1     0     0     0 (Eduard Bloch)                  
+------------------------------------------------------------------
+8     Total                              8     6     0     0     2 0                               

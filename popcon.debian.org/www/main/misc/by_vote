@@ -1,0 +1,41 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     ca-certificates                    1     1     0     0     0 (Michael Shuler)                
+2     dialog                             1     1     0     0     0 (Santiago Vila)                 
+3     hicolor-icon-theme                 1     1     0     0     0 (Ross Burton)                   
+4     insserv                            1     1     0     0     0 (Petter Reinholdtsen)           
+5     iso-codes                          1     1     0     0     0 (Tobias Quathamer)              
+6     libatk-adaptor                     1     1     0     0     0 (Debian Accessibility Team)     
+7     libatk1.0-data                     1     1     0     0     0 (Debian Gnome Maintainers)      
+8     libglib2.0-bin                     1     1     0     0     0 (Debian Gnome Maintainers)      
+9     libgtk-3-bin                       1     1     0     0     0 (Debian Gnome Maintainers)      
+10    libgtk-3-common                    1     1     0     0     0 (Debian Gnome Maintainers)      
+11    libgtk2.0-common                   1     1     0     0     0 (Debian Gnome Maintainers)      
+12    libreoffice-pdfimport              1     1     0     0     0 (Debian Libreoffice Maintainers)
+13    libreoffice-presentation-minimizer     1     1     0     0     0 (Debian Libreoffice Maintainers)
+14    lsb-base                           1     1     0     0     0 (Debian Lsb Team)               
+15    lsb-release                        1     1     0     0     0 (Debian Lsb Team)               
+16    ncurses-base                       1     1     0     0     0 (Craig Small)                   
+17    plymouth                           1     1     0     0     0 (Daniel Baumann)                
+18    popularity-contest                 1     1     0     0     0 (Popularity Contest Developers) 
+19    shared-mime-info                   1     1     0     0     0 (Sebastian Dröge)               
+20    at-spi2-core                       1     0     0     0     1 (Debian Accessibility Team)     
+21    debian-archive-keyring             1     0     0     0     1 (Debian Release Team)           
+22    libmx-common                       1     0     0     0     1 (Ying-chun Liu)                 
+23    libsocialweb-common                1     0     0     0     1 (Ying-chun Liu)                 
+24    libwildmidi-config                 1     0     0     0     1 (Emmet Hikory)                  
+25    metacity-common                    1     0     0     0     1 (Debian Gnome Maintainers)      
+26    mutter-common                      1     0     0     0     1 (Debian Gnome Maintainers)      
+27    plymouth-drm                       1     0     0     0     1 (Daniel Baumann)                
+28    poppler-data                       1     0     1     0     0 (Hideki Yamane)                 
+------------------------------------------------------------------
+28    Total                             28    19     1     0     8 0                               

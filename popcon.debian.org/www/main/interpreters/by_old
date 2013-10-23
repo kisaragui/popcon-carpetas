@@ -1,0 +1,20 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     gnome-js-common                    1     0     1     0     0 (Debian Gnome Maintainers)      
+2     cpp                                1     1     0     0     0 (Debian Gcc Maintainers)        
+3     cpp-4.6                            1     1     0     0     0 (Debian Gcc Maintainers)        
+4     cpp-4.7                            1     1     0     0     0 (Debian Gcc Maintainers)        
+5     gjs                                1     1     0     0     0 (Debian Gnome Maintainers)      
+6     m4                                 1     1     0     0     0 (Santiago Vila)                 
+7     mawk                               1     1     0     0     0 (Steve Langasek)                
+------------------------------------------------------------------
+7     Total                              7     6     1     0     0 0                               

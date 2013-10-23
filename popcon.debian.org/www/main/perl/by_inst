@@ -1,0 +1,52 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     libapt-pkg-perl                    1     1     0     0     0 (Brendan O'dea)                 
+2     libarchive-zip-perl                1     1     0     0     0 (Debian Perl Group)             
+3     libcairo-perl                      1     1     0     0     0 (Debian Perl Group)             
+4     libchart-perl                      1     1     0     0     0 (Debian Perl Group)             
+5     libclass-accessor-perl             1     1     0     0     0 (Debian Perl Group)             
+6     libclass-isa-perl                  1     1     0     0     0 (Debian Perl Group)             
+7     libclone-perl                      1     1     0     0     0 (Debian Perl Group)             
+8     libdigest-hmac-perl                1     1     0     0     0 (Debian Perl Group)             
+9     libdpkg-perl                       1     1     0     0     0 (Dpkg Developers)               
+10    libemail-valid-perl                1     1     0     0     0 (Debian Perl Group)             
+11    liberror-perl                      1     1     0     0     0 (Clint Burfoot)                 
+12    libgd-gd2-perl                     1     1     0     0     0 (Debian Perl Group)             
+13    libgd-graph-perl                   1     1     0     0     0 (Debian Perl Group)             
+14    libgd-graph3d-perl                 1     1     0     0     0 (Debian Perl Group)             
+15    libgd-text-perl                    1     1     0     0     0 (Debian Perl Group)             
+16    libglib-perl                       1     1     0     0     0 (Debian Perl Group)             
+17    libgtk2-perl                       1     1     0     0     0 (Debian Perl Group)             
+18    libintl-perl                       1     0     0     1     0 (Peter Eisentraut)              
+19    libio-pty-perl                     1     1     0     0     0 (Jörgen Hägg)                   
+20    libio-string-perl                  1     1     0     0     0 (Debian Perl Group)             
+21    libipc-run-perl                    1     1     0     0     0 (Debian Perl Group)             
+22    liblocale-gettext-perl             1     1     0     0     0 (Debian Perl Group)             
+23    libmailtools-perl                  1     1     0     0     0 (Anibal Monsalve Salazar)       
+24    libnet-dns-perl                    1     1     0     0     0 (Florian Roscher)               
+25    libnet-domain-tld-perl             1     1     0     0     0 (Debian Perl Group)             
+26    libnet-ip-perl                     1     1     0     0     0 (Debian Perl Group)             
+27    libpango-perl                      1     1     0     0     0 (Debian Perl Group)             
+28    libparse-debianchangelog-perl      1     1     0     0     0 (Frank Lichtenheld)             
+29    libsub-name-perl                   1     1     0     0     0 (Debian Perl Group)             
+30    libswitch-perl                     1     1     0     0     0 (Debian Perl Group)             
+31    libtext-charwidth-perl             1     1     0     0     0 (Anibal Monsalve Salazar)       
+32    libtext-iconv-perl                 1     1     0     0     0 (Anibal Monsalve Salazar)       
+33    libtext-wrapi18n-perl              1     1     0     0     0 (Anibal Monsalve Salazar)       
+34    libtimedate-perl                   1     1     0     0     0 (Debian Perl Group)             
+35    liburi-perl                        1     1     0     0     0 (Debian Perl Group)             
+36    libuuid-perl                       1     1     0     0     0 (Debian Perl Group)             
+37    perl                               1     1     0     0     0 (Niko Tyni)                     
+38    perl-base                          1     1     0     0     0 (Niko Tyni)                     
+39    perl-modules                       1     1     0     0     0 (Niko Tyni)                     
+------------------------------------------------------------------
+39    Total                             39    38     0     1     0 0                               

@@ -1,0 +1,18 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     apache2                            1     1     0     0     0 (Debian Apache Maintainers)     
+2     apache2-utils                      1     1     0     0     0 (Debian Apache Maintainers)     
+3     apache2.2-common                   1     1     0     0     0 (Debian Apache Maintainers)     
+4     libapache2-mod-dnssd               1     1     0     0     0 (Regis Boudin)                  
+5     libapache2-mod-fcgid               1     1     0     0     0 (Felix Geyer)                   
+------------------------------------------------------------------
+5     Total                              5     5     0     0     0 0                               

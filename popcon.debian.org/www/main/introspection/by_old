@@ -1,0 +1,59 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     gir1.2-gconf-2.0                   1     0     1     0     0 (Josselin Mouette)              
+2     gir1.2-gtop-2.0                    1     0     1     0     0 (Debian Gnome Maintainers)      
+3     gir1.2-panelapplet-4.0             1     0     1     0     0 (Debian Gnome Maintainers)      
+4     gir1.2-accountsservice-1.0         1     1     0     0     0 (Alessio Treglia)               
+5     gir1.2-atk-1.0                     1     1     0     0     0 (Debian Gnome Maintainers)      
+6     gir1.2-atspi-2.0                   1     1     0     0     0 (Debian Accessibility Team)     
+7     gir1.2-caribou-1.0                 1     1     0     0     0 (Debian Gnome Maintainers)      
+8     gir1.2-clutter-1.0                 1     1     0     0     0 (Debian Gnome Maintainers)      
+9     gir1.2-clutter-gst-1.0             1     1     0     0     0 (Debian Gnome Maintainers)      
+10    gir1.2-cogl-1.0                    1     1     0     0     0 (Rico Tzschichholz)             
+11    gir1.2-coglpango-1.0               1     1     0     0     0 (Rico Tzschichholz)             
+12    gir1.2-evince-3.0                  1     1     0     0     0 (Debian Gnome Maintainers)      
+13    gir1.2-folks-0.6                   1     1     0     0     0 (Debian Telepathy Maintainers)  
+14    gir1.2-freedesktop                 1     1     0     0     0 (Debian Gnome Maintainers)      
+15    gir1.2-gck-1                       1     1     0     0     0 (Josselin Mouette)              
+16    gir1.2-gcr-3                       1     1     0     0     0 (Josselin Mouette)              
+17    gir1.2-gdesktopenums-3.0           1     1     0     0     0 (Debian Gnome Maintainers)      
+18    gir1.2-gdkpixbuf-2.0               1     1     0     0     0 (Debian Gnome Maintainers)      
+19    gir1.2-gee-1.0                     1     1     0     0     0 (Maintainers Of Vala Packages)  
+20    gir1.2-gkbd-3.0                    1     1     0     0     0 (Debian Gnome Maintainers)      
+21    gir1.2-glib-2.0                    1     1     0     0     0 (Debian Gnome Maintainers)      
+22    gir1.2-gmenu-3.0                   1     1     0     0     0 (Debian Gnome Maintainers)      
+23    gir1.2-gnomebluetooth-1.0          1     1     0     0     0 (Debian Gnome Maintainers)      
+24    gir1.2-gst-plugins-base-0.10       1     1     0     0     0 (Maintainers Of Gstreamer Packages)
+25    gir1.2-gstreamer-0.10              1     1     0     0     0 (Maintainers Of Gstreamer Packages)
+26    gir1.2-gtk-3.0                     1     1     0     0     0 (Debian Gnome Maintainers)      
+27    gir1.2-gtkclutter-1.0              1     1     0     0     0 (Debian Gnome Maintainers)      
+28    gir1.2-gtksource-3.0               1     1     0     0     0 (Debian Gnome Maintainers)      
+29    gir1.2-gucharmap-2.90              1     1     0     0     0 (Debian Gnome Maintainers)      
+30    gir1.2-gudev-1.0                   1     1     0     0     0 (Debian Systemd Maintainers)    
+31    gir1.2-javascriptcoregtk-3.0       1     1     0     0     0 (Debian Webkit Maintainers)     
+32    gir1.2-json-1.0                    1     1     0     0     0 (Debian Gnome Maintainers)      
+33    gir1.2-mutter-3.0                  1     1     0     0     0 (Debian Gnome Maintainers)      
+34    gir1.2-networkmanager-1.0          1     1     0     0     0 (Utopia Maintenance Team)       
+35    gir1.2-notify-0.7                  1     1     0     0     0 (Debian Gnome Maintainers)      
+36    gir1.2-pango-1.0                   1     1     0     0     0 (Debian Gnome Maintainers)      
+37    gir1.2-peas-1.0                    1     1     0     0     0 (Debian Gnome Maintainers)      
+38    gir1.2-polkit-1.0                  1     1     0     0     0 (Utopia Maintenance Team)       
+39    gir1.2-soup-2.4                    1     1     0     0     0 (Debian Gnome Maintainers)      
+40    gir1.2-telepathyglib-0.12          1     1     0     0     0 (Debian Telepathy Maintainers)  
+41    gir1.2-telepathylogger-0.2         1     1     0     0     0 (Debian Telepathy Maintainers)  
+42    gir1.2-upowerglib-1.0              1     1     0     0     0 (Utopia Maintenance Team)       
+43    gir1.2-vte-2.90                    1     1     0     0     0 (Debian Gnome Maintainers)      
+44    gir1.2-webkit-3.0                  1     1     0     0     0 (Debian Webkit Maintainers)     
+45    gir1.2-wnck-3.0                    1     1     0     0     0 (Josselin Mouette)              
+46    gir1.2-xkl-1.0                     1     1     0     0     0 (Debian Gnome Maintainers)      
+------------------------------------------------------------------
+46    Total                             46    43     3     0     0 0                               

@@ -1,0 +1,18 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     procmail                           1     1     0     0     0 (Santiago Vila)                 
+2     sendmail-base                      1     1     0     0     0 (Jakub Safarik)                 
+3     sendmail-bin                       1     1     0     0     0 (Jakub Safarik)                 
+4     sendmail-cf                        1     1     0     0     0 (Jakub Safarik)                 
+5     mailutils-common                   1     0     0     1     0 (Jordi Mallach)                 
+------------------------------------------------------------------
+5     Total                              5     4     0     1     0 0                               

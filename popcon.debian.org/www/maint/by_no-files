@@ -1,0 +1,330 @@
+#<name> is the developer name;
+#
+#The fields below are the sum for all the packages maintained by that
+#developer:
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files 
+1     Debian Gnome Maintainers         195   143    10     0    42                                 
+2     Debian Multimedia Maintainers     29     5     0     0    24                                 
+3     Not in sid                        41    17     0     2    22                                 
+4     Debian X Strike Force            104    60    27     0    17                                 
+5     Rene Engelhard                    11     0     0     0    11                                 
+6     Debian Evolution Maintainers      10     0     1     0     9                                 
+7     Debian Qa Group                   14     5     0     0     9                                 
+8     Lamont Jones                      14     6     0     1     7                                 
+9     Maintainers Of Gstreamer Packages    19    12     0     0     7                                 
+10    Debian Qt/kde Maintainers          6     0     0     0     6                                 
+11    Josselin Mouette                  30    23     1     0     6                                 
+12    Ying-chun Liu                      7     1     0     0     6                                 
+13    Debian Telepathy Maintainers      20    10     5     0     5                                 
+14    Debian Accessibility Team         16    12     0     0     4                                 
+15    Debian Fonts Task Force            4     0     0     0     4                                 
+16    Utopia Maintenance Team           39    34     1     0     4                                 
+17    Dave Beckett                       6     3     0     0     3                                 
+18    Debian Gcc Maintainers            18    14     0     1     3                                 
+19    Debian Libreoffice Maintainers    21    18     0     0     3                                 
+20    Debian Virtualbox Team            12     8     0     1     3                                 
+21    Debian Xiph.org Maintainers        5     2     0     0     3                                 
+22    Fathi Boudra                       4     1     0     0     3                                 
+23    Imagemagick Packaging Team         4     1     0     0     3                                 
+24    Ron Lee                            8     4     1     0     3                                 
+25    Theppitak Karoonboonyanan          3     0     0     0     3                                 
+26    Anibal Monsalve Salazar           19    17     0     0     2                                 
+27    Bernd Zeimetz                      2     0     0     0     2                                 
+28    Daniel Baumann                     7     5     0     0     2                                 
+29    Debian Acpi Team                   5     3     0     0     2                                 
+30    Debian Apache Maintainers         10     8     0     0     2                                 
+31    Debian Boost Team                  2     0     0     0     2                                 
+32    Debian Games Team                  2     0     0     0     2                                 
+33    Debian Kernel Team                 9     7     0     0     2                                 
+34    Debian Lvm Team                    4     2     0     0     2                                 
+35    Debian Mysql Maintainers           2     0     0     0     2                                 
+36    Debian Python Modules Team         8     6     0     0     2                                 
+37    Debian Voip Team                   2     0     0     0     2                                 
+38    Debian Webkit Maintainers          8     6     0     0     2                                 
+39    Debian Xmpp Maintainers            2     0     0     0     2                                 
+40    Deng Xiyue                         2     0     0     0     2                                 
+41    Emmet Hikory                       2     0     0     0     2                                 
+42    Gerrit Pape                        4     2     0     0     2                                 
+43    Gregor Jasny                       2     0     0     0     2                                 
+44    Harshula Jayasuriya                4     1     1     0     2                                 
+45    Laszlo Boszormenyi                 5     3     0     0     2                                 
+46    Michael Biebl                      9     7     0     0     2                                 
+47    Modestas Vainius                   2     0     0     0     2                                 
+48    Neil Williams                      2     0     0     0     2                                 
+49    Rico Tzschichholz                  4     2     0     0     2                                 
+50    Sebastian Dröge                    4     2     0     0     2                                 
+51    Theodore Y. Ts'o                   4     2     0     0     2                                 
+52    Wxwidgets Maintainers              2     0     0     0     2                                 
+53    Andres Mejia                       1     0     0     0     1                                 
+54    Apt Development Team               6     5     0     0     1                                 
+55    Ari Pollak                         1     0     0     0     1                                 
+56    Barak A. Pearlmutter               2     1     0     0     1                                 
+57    Bastian Venthur                    1     0     0     0     1                                 
+58    Bhavani Shankar                    1     0     0     0     1                                 
+59    Bilal Akhtar                       1     0     0     0     1                                 
+60    Bill Cox                           1     0     0     0     1                                 
+61    Chris Hanson                       2     1     0     0     1                                 
+62    Christian Kastner                  1     0     0     0     1                                 
+63    Chuan-kai Lin                      1     0     0     0     1                                 
+64    Craig Small                        9     8     0     0     1                                 
+65    Daniel Burrows                     2     1     0     0     1                                 
+66    Debconf Developers                 2     1     0     0     1                                 
+67    Debian Alsa Maintainers            3     2     0     0     1                                 
+68    Debian Directfb Team               1     0     0     0     1                                 
+69    Debian Install System Team         7     5     0     1     1                                 
+70    Debian Javascript Maintainers      1     0     0     0     1                                 
+71    Debian Krap Maintainers            2     0     1     0     1                                 
+72    Debian Libarchive Maintainers      1     0     0     0     1                                 
+73    Debian Libreoffice Team            1     0     0     0     1                                 
+74    Debian Multimedia Packages Maintainers     1     0     0     0     1                                 
+75    Debian Mythtv Team                 1     0     0     0     1                                 
+76    Debian Openoffice Team             1     0     0     0     1                                 
+77    Debian Openssh Maintainers         3     2     0     0     1                                 
+78    Debian Phototools Maintainers      4     3     0     0     1                                 
+79    Debian Policy List                 1     0     0     0     1                                 
+80    Debian Printing Team              15    13     1     0     1                                 
+81    Debian Release Team                1     0     0     0     1                                 
+82    Debian Samba Maintainers           2     1     0     0     1                                 
+83    Debian Science Team                4     3     0     0     1                                 
+84    Debian Sdl Packages Maintainers     1     0     0     0     1                                 
+85    Debian Selinux Maintainers         4     3     0     0     1                                 
+86    Debian Systemd Maintainers         5     4     0     0     1                                 
+87    Debian Tex Maintainers             3     2     0     0     1                                 
+88    Debian Wine Party                  5     4     0     0     1                                 
+89    Developers Reference Maintainers     1     0     0     0     1                                 
+90    Dirk Eddelbuettel                  1     0     0     0     1                                 
+91    Ed Boraas                          1     0     0     0     1                                 
+92    Erik De Castro Lopo                2     1     0     0     1                                 
+93    Fabien Boucher                     1     0     0     0     1                                 
+94    Gd Team                            1     0     0     0     1                                 
+95    Gnu Libc Maintainers               7     6     0     0     1                                 
+96    Guido Günther                      3     1     1     0     1                                 
+97    Guilherme De S. Pastore            1     0     0     0     1                                 
+98    Gustavo Franco                     2     1     0     0     1                                 
+99    Guus Sliepen                       2     1     0     0     1                                 
+100   Hendrik Sattler                    1     0     0     0     1                                 
+101   Ian Wienand                        1     0     0     0     1                                 
+102   Javier Fernandez-sanguino Pen~a     1     0     0     0     1                                 
+103   Javier Fernández-sanguino Peña     2     1     0     0     1                                 
+104   Jay Berkenbilt                     2     1     0     0     1                                 
+105   Jochen Friedrich                   1     0     0     0     1                                 
+106   John Stamp                         1     0     0     0     1                                 
+107   John V. Belmonte                   1     0     0     0     1                                 
+108   Karolina Kalic                     1     0     0     0     1                                 
+109   Kartik Mistry                      1     0     0     0     1                                 
+110   Laurent Fousse                     2     1     0     0     1                                 
+111   Loic Minier                        3     2     0     0     1                                 
+112   Luca Falavigna                     2     1     0     0     1                                 
+113   Luciano Bello                      1     0     0     0     1                                 
+114   Mad Maintainers                    1     0     0     0     1                                 
+115   Magnus Holmgren                    1     0     0     0     1                                 
+116   Maintainers Of Vala Packages       2     1     0     0     1                                 
+117   Marcio Roberto Teixeira            1     0     0     0     1                                 
+118   Marco D'itri                       7     6     0     0     1                                 
+119   Martin Schulze                     1     0     0     0     1                                 
+120   Matthias Klose                    12    11     0     0     1                                 
+121   Matthias Klumpp                    1     0     0     0     1                                 
+122   Mattias Ellert                     1     0     0     0     1                                 
+123   Michael Van Der Kolff              1     0     0     0     1                                 
+124   Michal Čihař                       8     7     0     0     1                                 
+125   Niibe Yutaka                       1     0     0     0     1                                 
+126   Parted Maintainer Team             1     0     0     0     1                                 
+127   Patrick Matthäi                    1     0     0     0     1                                 
+128   Philipp Matthias Hahn              1     0     0     0     1                                 
+129   Ritesh Raj Sarraf                  1     0     0     0     1                                 
+130   Ross Burton                        4     2     1     0     1                                 
+131   Ruben Molina                       3     2     0     0     1                                 
+132   Santiago Vila                     11    10     0     0     1                                 
+133   Sjoerd Simons                      3     2     0     0     1                                 
+134   Steve Langasek                     7     6     0     0     1                                 
+135   Timo Aaltonen                      3     2     0     0     1                                 
+136   Vaclav Ovsik                       1     0     0     0     1                                 
+137   Xcb Developers                     6     5     0     0     1                                 
+138   Yves-alexis Perez                  1     0     0     0     1                                 
+139   Zed Pobre                          1     0     0     0     1                                 
+140   Agustin Martin Domingo             3     1     2     0     0                                 
+141   Alastair Mckinstry                 5     5     0     0     0                                 
+142   Alejandro Garrido Mota             2     1     1     0     0                                 
+143   Alessandro Ghedini                 2     2     0     0     0                                 
+144   Alessio Treglia                    4     4     0     0     0                                 
+145   Alexander Sack                     1     1     0     0     0                                 
+146   Alexander Wirt                     1     1     0     0     0                                 
+147   Andreas Metzler                    2     2     0     0     0                                 
+148   Andreas Rottmann                   2     2     0     0     0                                 
+149   Andrew Shadura                     1     1     0     0     0                                 
+150   Andrey Rahmatullin                 1     1     0     0     0                                 
+151   Aptitude Development Team          2     2     0     0     0                                 
+152   Aurelien Jarno                     3     3     0     0     0                                 
+153   Bart Martens                       1     0     0     1     0                                 
+154   Bash Completion Maintainers        1     1     0     0     0                                 
+155   Bdale Garbee                       3     3     0     0     0                                 
+156   Ben Pfaff                          1     1     0     0     0                                 
+157   Bill Allombert                     2     2     0     0     0                                 
+158   Boris Dušek                        3     3     0     0     0                                 
+159   Brendan O'dea                      1     1     0     0     0                                 
+160   Brian Nelson                       3     3     0     0     0                                 
+161   Cdbs Hackers                       1     1     0     0     0                                 
+162   Chris Coulson                      1     1     0     0     0                                 
+163   Chris Waters                       1     0     0     1     0                                 
+164   Christoph Berg                     2     2     0     0     0                                 
+165   Christoph Egger                    1     1     0     0     0                                 
+166   Christophe Sauthier                1     1     0     0     0                                 
+167   Christopher James Halse Rogers     1     1     0     0     0                                 
+168   Clint Adams                        3     3     0     0     0                                 
+169   Clint Burfoot                      1     1     0     0     0                                 
+170   Colin Watson                       4     4     0     0     0                                 
+171   Console Utilities Maintainers      1     1     0     0     0                                 
+172   Daniel Leidert                     3     3     0     0     0                                 
+173   Daniel Ruoso                       3     3     0     0     0                                 
+174   Debian Adduser Developers          1     1     0     0     0                                 
+175   Debian Berkeley Db Group           1     1     0     0     0                                 
+176   Debian Bluetooth Maintainers       3     3     0     0     0                                 
+177   Debian Bsdmainutils Team           1     1     0     0     0                                 
+178   Debian Cyrus Sasl Team             1     1     0     0     0                                 
+179   Debian Gnu/kfreebsd                1     1     0     0     0                                 
+180   Debian Gnupg-maintainers           2     1     0     1     0                                 
+181   Debian Gnutls Maintainers          4     4     0     0     0                                 
+182   Debian Hebrew Packaging Team       1     0     1     0     0                                 
+183   Debian Hostname Team               1     1     0     0     0                                 
+184   Debian Iproute2 Maintainers        1     1     0     0     0                                 
+185   Debian Isc Dhcp Maintainers        2     2     0     0     0                                 
+186   Debian Libburnia Packagers         2     2     0     0     0                                 
+187   Debian Libidn Team                 1     1     0     0     0                                 
+188   Debian Lintian Maintainers         1     1     0     0     0                                 
+189   Debian Lsb Team                    2     2     0     0     0                                 
+190   Debian Openldap Maintainers        1     1     0     0     0                                 
+191   Debian Openssl Team                2     2     0     0     0                                 
+192   Debian Pbuilder Maintenance Team     1     1     0     0     0                                 
+193   Debian Perl Group                 25    25     0     0     0                                 
+194   Debian Python-debian Maintainers     1     1     0     0     0                                 
+195   Debian Sysvinit Maintainers        4     4     0     0     0                                 
+196   Debian Vim Maintainers             4     4     0     0     0                                 
+197   Debian Xml/sgml Group              4     4     0     0     0                                 
+198   Debian/ubuntu Wpasupplicant Maintainers     1     1     0     0     0                                 
+199   Debian/ubuntu Zope Team            1     1     0     0     0                                 
+200   Devscripts Devel Team              1     1     0     0     0                                 
+201   Didier Raboud                      3     3     0     0     0                                 
+202   Dmitry Smirnov                     2     2     0     0     0                                 
+203   Dpkg Developers                    3     3     0     0     0                                 
+204   Dynamic Kernel Modules Support Team     1     1     0     0     0                                 
+205   Eduard Bloch                       1     1     0     0     0                                 
+206   Emilio Pozuelo Monfort             1     0     1     0     0                                 
+207   Enrico Zini                        2     2     0     0     0                                 
+208   Eric Dorland                       1     1     0     0     0                                 
+209   Eugene V. Lyubimkin                1     1     0     0     0                                 
+210   Felix Geyer                        2     1     1     0     0                                 
+211   Felix Zielcke                      1     1     0     0     0                                 
+212   Filippo Giunchedi                  1     1     0     0     0                                 
+213   Florian Ernst                      1     1     0     0     0                                 
+214   Florian Roscher                    1     1     0     0     0                                 
+215   Frank Lichtenheld                  2     2     0     0     0                                 
+216   Frederic Peters                    1     1     0     0     0                                 
+217   Gergely Nagy                       1     1     0     0     0                                 
+218   Giuseppe Sacco                     1     1     0     0     0                                 
+219   Goedson Teixeira Paixao            1     1     0     0     0                                 
+220   Gtkpod Maintainers                 4     4     0     0     0                                 
+221   Guillem Jover                      1     1     0     0     0                                 
+222   Gustavo Noronha Silva              2     2     0     0     0                                 
+223   Heiko Stuebner                     3     3     0     0     0                                 
+224   Henrique De Moraes Holschuh        1     1     0     0     0                                 
+225   Hideki Yamane                      1     0     1     0     0                                 
+226   Jakub Safarik                      3     3     0     0     0                                 
+227   Jelmer Vernooij                    2     2     0     0     0                                 
+228   Joey Hess                          2     2     0     0     0                                 
+229   Jonas Smedegaard                   1     1     0     0     0                                 
+230   Jonathan Nieder                    2     2     0     0     0                                 
+231   Jordi Mallach                      3     1     0     2     0                                 
+232   Jose Carlos Garcia Sogo            2     2     0     0     0                                 
+233   Juan Esteban Monsalve Tobon        1     1     0     0     0                                 
+234   Julian Andres Klode                9     9     0     0     0                                 
+235   Jörgen Hägg                        1     1     0     0     0                                 
+236   Keith Packard                      3     3     0     0     0                                 
+237   Krzysztof Klimonda                 1     1     0     0     0                                 
+238   Kurt Roeckx                        2     2     0     0     0                                 
+239   Laurence J. Lane                   1     1     0     0     0                                 
+240   Laurent Bigonville                 3     1     2     0     0                                 
+241   Llvm Packaging Team                1     1     0     0     0                                 
+242   Ludovic Rousseau                   1     1     0     0     0                                 
+243   Luk Claes                          5     5     0     0     0                                 
+244   Maintainer: Debian Science Maintainers     1     1     0     0     0                                 
+245   Maintainers Of Mozilla-related Packages     2     1     0     1     0                                 
+246   Manoj Srivastava                   2     2     0     0     0                                 
+247   Marc Haber                         1     1     0     0     0                                 
+248   Mark Baker                         1     1     0     0     0                                 
+249   Mark Brown                         1     1     0     0     0                                 
+250   Martin Meredith                    2     2     0     0     0                                 
+251   Martin Pitt                        1     1     0     0     0                                 
+252   Martin Quinson                     1     1     0     0     0                                 
+253   Masayuki Hatta                     1     1     0     0     0                                 
+254   Matteo F. Vescovi                  1     1     0     0     0                                 
+255   Mattia Dongili                     1     1     0     0     0                                 
+256   Maximilian Attems                  2     2     0     0     0                                 
+257   Michael Shuler                     1     1     0     0     0                                 
+258   Michael Stone                      1     1     0     0     0                                 
+259   Michael Vogt                       2     2     0     0     0                                 
+260   Mikhail Gusarov                    1     1     0     0     0                                 
+261   Mime-support Maintainers           1     1     0     0     0                                 
+262   Miquel Van Smoorenburg             2     2     0     0     0                                 
+263   Mirco Bauer                        1     1     0     0     0                                 
+264   Mohammed Adnène Trojette           1     1     0     0     0                                 
+265   Net-tools Team                     1     1     0     0     0                                 
+266   Nicolas Boullis                    3     3     0     0     0                                 
+267   Nicolas Francois                   2     2     0     0     0                                 
+268   Niko Tyni                          4     4     0     0     0                                 
+269   Noah Meyerhans                     1     1     0     0     0                                 
+270   Nobuhiro Iwamatsu                  1     1     0     0     0                                 
+271   Noël Köthe                         1     0     0     1     0                                 
+272   Oleksandr Moskalenko               2     2     0     0     0                                 
+273   Olly Betts                         2     2     0     0     0                                 
+274   Optical Media Tools Team           1     1     0     0     0                                 
+275   Package Hardening                  1     1     0     0     0                                 
+276   Paul Martin                        2     2     0     0     0                                 
+277   Pedro Ribeiro                      1     1     0     0     0                                 
+278   Per Olofsson                       1     1     0     0     0                                 
+279   Peter Eisentraut                   4     3     0     1     0                                 
+280   Peter S Galbraith                  3     0     3     0     0                                 
+281   Peter Samuelson                    1     1     0     0     0                                 
+282   Petter Reinholdtsen                1     1     0     0     0                                 
+283   Phillip Susi                       1     1     0     0     0                                 
+284   Pierre Chifflier                   1     1     0     0     0                                 
+285   Piotr Ożarowski                    1     1     0     0     0                                 
+286   Popularity Contest Developers      1     1     0     0     0                                 
+287   Prach Pongpanich                   1     1     0     0     0                                 
+288   Pulseaudio Maintenance Team        3     3     0     0     0                                 
+289   Regis Boudin                       1     1     0     0     0                                 
+290   Reportbug Maintainers              2     2     0     0     0                                 
+291   Rob Browning                       5     4     0     1     0                                 
+292   Roland Stigge                      1     1     0     0     0                                 
+293   Romain Francoise                   2     2     0     0     0                                 
+294   Ryan Kavanagh                      1     1     0     0     0                                 
+295   Sam Hartman                        4     4     0     0     0                                 
+296   Sam Hocevar                        1     1     0     0     0                                 
+297   Sandro Tosi                        1     1     0     0     0                                 
+298   Savvas Radevic                     1     1     0     0     0                                 
+299   Sebastian Heinlein                 1     1     0     0     0                                 
+300   Sebastian Rittau                   2     1     1     0     0                                 
+301   Sebastien Bacher                   2     2     0     0     0                                 
+302   Shadow Package Maintainers         2     2     0     0     0                                 
+303   Shane Wegner                       1     1     0     0     0                                 
+304   Stefano Rivera                     3     3     0     0     0                                 
+305   Stephen Gran                       1     1     0     0     0                                 
+306   Steve Mcintyre                     2     2     0     0     0                                 
+307   Tanguy Ortolo                      1     1     0     0     0                                 
+308   Tatsuya Kinoshita                  1     0     1     0     0                                 
+309   Thibaut Gridel                     1     1     0     0     0                                 
+310   Tim Dijkstra                       1     1     0     0     0                                 
+311   Tobias Quathamer                   1     1     0     0     0                                 
+312   Tollef Fog Heen                    1     1     0     0     0                                 
+313   Torsten Werner                     2     2     0     0     0                                 
+314   Vincent Bernat                     1     0     0     1     0                                 
+315   Wolfram Quester                    1     1     0     0     0                                 
+316   Xfs Development Team               1     1     0     0     0                                 
+------------------------------------------------------------------
+316   Total                           1319   887    65    16   351 0                               

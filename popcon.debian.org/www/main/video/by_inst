@@ -1,0 +1,17 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     gstreamer0.10-ffmpeg               1     0     0     0     1 (Maintainers Of Gstreamer Packages)
+2     totem                              1     1     0     0     0 (Debian Gnome Maintainers)      
+3     totem-common                       1     0     0     0     1 (Debian Gnome Maintainers)      
+4     totem-mozilla                      1     0     1     0     0 (Debian Gnome Maintainers)      
+------------------------------------------------------------------
+4     Total                              4     1     1     0     2 0                               

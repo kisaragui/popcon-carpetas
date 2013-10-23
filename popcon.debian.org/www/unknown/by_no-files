@@ -1,0 +1,54 @@
+#Format
+#   
+#<name> is the package name;
+#<inst> is the number of people who installed this package;
+#<vote> is the number of people who use this package regularly;
+#<old> is the number of people who installed, but don't use this package
+#      regularly;
+#<recent> is the number of people who upgraded this package recently;
+#<no-files> is the number of people whose entry didn't contain enough
+#           information (atime and ctime were 0).
+#rank name                            inst  vote   old recent no-files (maintainer)
+1     burg                               1     0     0     0     1 (Not in sid)                    
+2     burg-themes                        1     0     0     0     1 (Not in sid)                    
+3     burg-themes-common                 1     0     0     0     1 (Not in sid)                    
+4     canaima-ayuda                      1     0     0     0     1 (Not in sid)                    
+5     canaima-base                       1     0     0     0     1 (Not in sid)                    
+6     canaima-escritorio-base            1     0     0     0     1 (Not in sid)                    
+7     canaima-escritorio-gnome           1     0     0     0     1 (Not in sid)                    
+8     canaima-estilo-visual-gnome        1     0     0     0     1 (Not in sid)                    
+9     canaima-fuentes-extras             1     0     0     0     1 (Not in sid)                    
+10    canaima-l10n-es-ve                 1     0     0     0     1 (Not in sid)                    
+11    canaima-llaves                     1     0     0     0     1 (Not in sid)                    
+12    canaima-multimedia-gnome           1     0     0     0     1 (Not in sid)                    
+13    canaima-web-gnome                  1     0     0     0     1 (Not in sid)                    
+14    fonts-jara                         1     0     0     0     1 (Not in sid)                    
+15    gnome-icon-theme-gnamon            1     0     0     0     1 (Not in sid)                    
+16    gnome-shell-extensions-gnamon      1     0     0     0     1 (Not in sid)                    
+17    gnome-themes-gnamon                1     0     0     0     1 (Not in sid)                    
+18    libaacplus2                        1     0     0     0     1 (Not in sid)                    
+19    libmozjs23d                        1     0     0     0     1 (Not in sid)                    
+20    liborcus-0.4-0                     1     0     0     0     1 (Not in sid)                    
+21    libx264-124                        1     0     0     0     1 (Not in sid)                    
+22    python-xkit                        1     0     0     0     1 (Not in sid)                    
+23    amigu                              1     1     0     0     0 (Not in sid)                    
+24    burg-common                        1     1     0     0     0 (Not in sid)                    
+25    burg-emu                           1     1     0     0     0 (Not in sid)                    
+26    burg-pc                            1     1     0     0     0 (Not in sid)                    
+27    canaima-bienvenido-gnome           1     1     0     0     0 (Not in sid)                    
+28    canaima-fondos-dinamicos           1     0     0     1     0 (Not in sid)                    
+29    canaima-l10n                       1     1     0     0     0 (Not in sid)                    
+30    canaima-notas-gnome                1     1     0     0     0 (Not in sid)                    
+31    canaima-webapps                    1     1     0     0     0 (Not in sid)                    
+32    cunaguaro                          1     1     0     0     0 (Not in sid)                    
+33    cunaguaro-l10n-es-es               1     1     0     0     0 (Not in sid)                    
+34    dumphive                           1     1     0     0     0 (Not in sid)                    
+35    guacharo                           1     1     0     0     0 (Not in sid)                    
+36    guacharo-l10n-es-es                1     1     0     0     0 (Not in sid)                    
+37    jockey-common                      1     1     0     0     0 (Not in sid)                    
+38    jockey-gtk                         1     1     0     0     0 (Not in sid)                    
+39    sublime-text                       1     1     0     0     0 (Not in sid)                    
+40    virtualbox-modules-3.2.0-4-686-pae     1     0     0     1     0 (Not in sid)                    
+41    xulrunner-23.0                     1     1     0     0     0 (Not in sid)                    
+------------------------------------------------------------------
+41    Total                             41    17     0     2    22 0                               
